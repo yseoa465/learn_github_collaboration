@@ -5,7 +5,7 @@ This repository is meant to be a sample repository for users to learn how to col
 ## What changes to make
 After forking this Repository, update this README by adding your name to the list below.
 
-## Names of contributors
+## [Names of contributors]
 - Obed Ehoneah
 - James Nzioka
 - Biniyam Ambachew
